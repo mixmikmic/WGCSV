@@ -1,0 +1,4 @@
+
+1. นำข้อมูลเข้า item.xls  (ห้ามเปลี่ยนหัวตาราง)
+2. save file item.xls
+3. run โปรแกรม ImportItem.exe
